@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mStagnaro17
-- 👀 I’m interested in Software Developing.
-- 🌱 I’m currently learning Java, Javascript and SQL.
-- 💞️ I’m looking to collaborate on whatever.
-- 📫 How to reach me over here.
+Nada de Hi's anymore.
+La programación te convierte.
+Piénsalo 2 veces.
+No te dejes engañar por la gente que tien foto de su gato.
 
 <!---
 mStagnaro17/mStagnaro17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
